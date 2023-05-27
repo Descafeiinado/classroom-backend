@@ -1,0 +1,327 @@
+{"level":"info","message":"[app] Hello World","service":"user-service"}
+{"level":"info","message":"[app] Hello World","service":"user-service"}
+{"level":"info","message":"[app] Hello World"}
+{"level":"info","message":"[app] Starting application"}
+{"level":"info","message":"[app] Application is up and running."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"error","message":"[app] Application is crashed: TypeError: Cannot read properties of undefined (reading 'use')"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[auth:AuthService] Created"}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api \u001b[36m304\u001b[0m 3.308 ms - -\u001b[0m\n"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api \u001b[36m304\u001b[0m 15.104 ms - -\u001b[0m\n"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[auth:AuthService] No credentials provided by the client"}
+{"level":"warn","message":"[auth:authorizationChecker] No credentials given"}
+{"0":"/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30\n        _this.stack = new Error().stack;\n                      ^\n\nError\n    at AuthorizationRequiredError2.HttpError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30:23)\n    at AuthorizationRequiredError2.UnauthorizedError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/UnauthorizedError.js:23:28)\n    at AuthorizationRequiredError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/error/AuthorizationRequiredError.js:23:28)\n    at handleError_1 (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:128:87)\n    at <anonymous> (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:137:62)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","message":"[api:middlewares] AuthorizationRequiredError"}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api/users \u001b[33m401\u001b[0m 32.566 ms - -\u001b[0m\n"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[auth:AuthService] No credentials provided by the client"}
+{"level":"warn","message":"[auth:authorizationChecker] No credentials given"}
+{"0":"/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30\n        _this.stack = new Error().stack;\n                      ^\n\nError\n    at AuthorizationRequiredError2.HttpError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30:23)\n    at AuthorizationRequiredError2.UnauthorizedError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/UnauthorizedError.js:23:28)\n    at AuthorizationRequiredError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/error/AuthorizationRequiredError.js:23:28)\n    at handleError_1 (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:128:87)\n    at <anonymous> (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:137:62)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","message":"[api:middlewares] AuthorizationRequiredError"}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api/users \u001b[33m401\u001b[0m 20.549 ms - -\u001b[0m\n"}
+{"level":"info","message":"[auth:AuthService] Credentials provided by the client"}
+{"0":"/home/heaven/development/classroom/backend/src/auth/AuthService.ts:35\n        const user = await this.prismaClient.user.findUnique({\n                                                  ^\n\nTypeError: Cannot read properties of undefined (reading 'findUnique')\n    at AuthService.validateUser (/home/heaven/development/classroom/backend/src/auth/AuthService.ts:35:51)\n    at ExpressDriver2.innerAuthorizationChecker (/home/heaven/development/classroom/backend/src/auth/authorizationChecker.ts:24:49)\n    at <anonymous> (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:125:45)\n    at Layer.handle (/home/heaven/development/classroom/backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/heaven/development/classroom/backend/node_modules/express/lib/router/route.js:144:13)\n    at Route.dispatch (/home/heaven/development/classroom/backend/node_modules/express/lib/router/route.js:114:3)\n    at Layer.handle (/home/heaven/development/classroom/backend/node_modules/express/lib/router/layer.js:95:5)\n    at <anonymous> (/home/heaven/development/classroom/backend/node_modules/express/lib/router/index.js:284:15)\n    at Function.process_params (/home/heaven/development/classroom/backend/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/heaven/development/classroom/backend/node_modules/express/lib/router/index.js:280:10)","level":"error","message":"[api:middlewares] TypeError"}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api/users \u001b[31m500\u001b[0m 25.620 ms - -\u001b[0m\n"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[auth:AuthService] Credentials provided by the client"}
+{"level":"warn","message":"[auth:authorizationChecker] Invalid credentials given"}
+{"0":"/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30\n        _this.stack = new Error().stack;\n                      ^\n\nError\n    at AuthorizationRequiredError2.HttpError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30:23)\n    at AuthorizationRequiredError2.UnauthorizedError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/UnauthorizedError.js:23:28)\n    at AuthorizationRequiredError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/error/AuthorizationRequiredError.js:23:28)\n    at handleError_1 (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:128:87)\n    at <anonymous> (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:137:62)","level":"error","message":"[api:middlewares] AuthorizationRequiredError"}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api/users \u001b[33m401\u001b[0m 46.398 ms - -\u001b[0m\n"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[auth:AuthService] Credentials provided by the client> emFuc2dhbWVzMjFAZ21haWwuY29tOmNhZmU="}
+{"level":"warn","message":"[auth:authorizationChecker] Invalid credentials given"}
+{"0":"/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30\n        _this.stack = new Error().stack;\n                      ^\n\nError\n    at AuthorizationRequiredError2.HttpError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30:23)\n    at AuthorizationRequiredError2.UnauthorizedError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/UnauthorizedError.js:23:28)\n    at AuthorizationRequiredError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/error/AuthorizationRequiredError.js:23:28)\n    at handleError_1 (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:128:87)\n    at <anonymous> (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:137:62)","level":"error","message":"[api:middlewares] AuthorizationRequiredError"}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api/users \u001b[33m401\u001b[0m 52.683 ms - -\u001b[0m\n"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[auth:AuthService] Credentials provided by the client> emFuc2dhbWVzMjFAZ21haWwuY29tOmNhZmU="}
+{"level":"info","message":"[auth:AuthService] Validate user: zansgames21@gmail.com"}
+{"level":"info","message":"[auth:AuthService] User not found 2: zansgames21@gmail.com"}
+{"level":"warn","message":"[auth:authorizationChecker] Invalid credentials given"}
+{"0":"/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30\n        _this.stack = new Error().stack;\n                      ^\n\nError\n    at AuthorizationRequiredError2.HttpError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30:23)\n    at AuthorizationRequiredError2.UnauthorizedError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/UnauthorizedError.js:23:28)\n    at AuthorizationRequiredError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/error/AuthorizationRequiredError.js:23:28)\n    at handleError_1 (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:128:87)\n    at <anonymous> (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:137:62)","level":"error","message":"[api:middlewares] AuthorizationRequiredError"}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api/users \u001b[33m401\u001b[0m 80.415 ms - -\u001b[0m\n"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[auth:AuthService] Credentials provided by the client> emFuc2dhbWVzMjFAZ21haWwuY29tOmNhZmU="}
+{"level":"info","message":"[auth:AuthService] Validate user: zansgames21@gmail.com"}
+{"level":"info","message":"[auth:AuthService] password: cafe"}
+{"level":"warn","message":"[auth:authorizationChecker] Invalid credentials given"}
+{"0":"/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30\n        _this.stack = new Error().stack;\n                      ^\n\nError\n    at AuthorizationRequiredError2.HttpError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30:23)\n    at AuthorizationRequiredError2.UnauthorizedError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/UnauthorizedError.js:23:28)\n    at AuthorizationRequiredError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/error/AuthorizationRequiredError.js:23:28)\n    at handleError_1 (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:128:87)\n    at <anonymous> (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:137:62)","level":"error","message":"[api:middlewares] AuthorizationRequiredError"}
+{"level":"info","message":"[auth:AuthService] hash: $2y$10$dfFy1hb/JKnfd9ivLP34cutsqItbaU6OJFvo5zwJuZmXiBPSQeiIS"}
+{"level":"info","message":"[auth:AuthService] User not found 2: zansgames21@gmail.com"}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api/users \u001b[33m401\u001b[0m 93.496 ms - -\u001b[0m\n"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[auth:AuthService] Credentials provided by the client> emFuc2dhbWVzMjFAZ21haWwuY29tOmNhZmU="}
+{"level":"info","message":"[auth:AuthService] Validate user: zansgames21@gmail.com"}
+{"level":"info","message":"[auth:AuthService] password: cafe"}
+{"level":"info","message":"[auth:AuthService] hash: $2y$10$dfFy1hb/JKnfd9ivLP34cutsqItbaU6OJFvo5zwJuZmXiBPSQeiIS"}
+{"level":"warn","message":"[auth:authorizationChecker] Invalid credentials given"}
+{"0":"/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30\n        _this.stack = new Error().stack;\n                      ^\n\nError\n    at AuthorizationRequiredError2.HttpError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30:23)\n    at AuthorizationRequiredError2.UnauthorizedError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/UnauthorizedError.js:23:28)\n    at AuthorizationRequiredError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/error/AuthorizationRequiredError.js:23:28)\n    at handleError_1 (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:128:87)\n    at <anonymous> (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:137:62)","level":"error","message":"[api:middlewares] AuthorizationRequiredError"}
+{"level":"info","message":"[auth:AuthService] User not found 2: zansgames21@gmail.com"}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api/users \u001b[33m401\u001b[0m 61.305 ms - -\u001b[0m\n"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[auth:AuthService] Credentials provided by the client."}
+{"level":"info","message":"[auth:AuthService] Validate user: zansgames21@gmail.com"}
+{"level":"info","message":"[auth:AuthService] password: cafe"}
+{"level":"info","message":"[auth:AuthService] hash: $2y$10$dfFy1hb/JKnfd9ivLP34cutsqItbaU6OJFvo5zwJuZmXiBPSQeiIS"}
+{"level":"warn","message":"[auth:authorizationChecker] Invalid credentials given"}
+{"0":"/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30\n        _this.stack = new Error().stack;\n                      ^\n\nError\n    at AuthorizationRequiredError2.HttpError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/HttpError.js:30:23)\n    at AuthorizationRequiredError2.UnauthorizedError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/http-error/UnauthorizedError.js:23:28)\n    at AuthorizationRequiredError (/home/heaven/development/classroom/backend/node_modules/routing-controllers/error/AuthorizationRequiredError.js:23:28)\n    at handleError_1 (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:128:87)\n    at <anonymous> (/home/heaven/development/classroom/backend/node_modules/routing-controllers/driver/express/ExpressDriver.js:137:62)","level":"error","message":"[api:middlewares] AuthorizationRequiredError"}
+{"level":"info","message":"[auth:AuthService] result: false"}
+{"level":"info","message":"[auth:AuthService] User not found 2: zansgames21@gmail.com"}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api/users \u001b[33m401\u001b[0m 68.871 ms - -\u001b[0m\n"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] Aloha, classroom backend is running on http://localhost:3000/api"}
+{"level":"info","message":"[app] To shut it down, press <CTRL> + C at any time."}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] Environment  : development"}
+{"level":"info","message":"[app] Version      : undefined"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[app] API Info     : http://localhost:3000/api"}
+{"level":"info","message":"[app] -------------------------------------------------------"}
+{"level":"info","message":"[app] "}
+{"level":"info","message":"[auth:AuthService] Credentials provided by the client."}
+{"level":"info","message":"[auth:authorizationChecker] Successfully checked credentials"}
+{"level":"info","message":"[api:controllers/UserController] Find all users"}
+{"level":"info","message":"[api:middlewares] \u001b[0mGET /api/users \u001b[32m200\u001b[0m 43.112 ms - 237\u001b[0m\n"}
